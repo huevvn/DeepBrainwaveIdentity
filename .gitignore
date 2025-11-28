@@ -33,3 +33,5 @@ models/
 *.cache
 .cache/
 
+# Ignore data files
+eegDataset/
